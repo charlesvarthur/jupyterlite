@@ -43,3 +43,4 @@ ipyleaflet
 plotly>=6,<7
 bqplot
 seaborn
+openpyxl
